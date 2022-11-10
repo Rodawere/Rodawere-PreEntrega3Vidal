@@ -1,0 +1,49 @@
+/*===============Propiedades Globales================*/
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+body{
+    font-family: 'Montserrat', sans-serif;
+    overflow-x: hidden;
+}
+
+/*===================MENU==========================*/
+
+#menu a {
+    font-size: 14px;
+    font-weight: bold;
+}
+
+/*===================SLIDER DE IMAGENES==========================*/
+
+carousel-inner{
+    max-height: 39rem;
+}
+
+/*===================AVANCES==========================*/
+
+
+
+
+    
+
+
+
+
+/*===================SECCION NUESTRO EQUIPO IMAGEN==========================*/
+
+/*=========================FOOTER================================*/
+
+/*=========================MEDIA QUERIES PANTALLA ANCHA================================*/
+
+
+/*=========================MEDIA QUERIES PANTALLA SM================================*/
+
+@media (max-width:768) {
+    #inicio {
+        width: 90%;
+    }
+}
+
+
+/*=========================MEDIA QUERIES PANTALLA EXTRA-SM================================*/
