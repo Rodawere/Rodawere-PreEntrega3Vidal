@@ -1,7 +1,5 @@
 FutureGames
 
-
-
 Tareas realizadas
 SASS
 Hice lo que pude pasando el CSS ya hecho 
