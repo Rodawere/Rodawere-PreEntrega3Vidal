@@ -1,5 +1,4 @@
 FutureGames
-Página CV de Andrea Pérez dueña de DreArt Studios
 
 Tareas realizadas
 SASS
@@ -11,4 +10,6 @@ Se agregaron los meta description, keywords y los alt de todas las imágenes del
 
 Compresión de imágenes
 Se usó el formato .jpg para las imágenes del sitio ya que mantenía la misma calidad por una reducción del peso.
+
+
 
