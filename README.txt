@@ -10,7 +10,9 @@ Se agregaron los meta description, keywords y los alt de todas las imágenes del
 Compresión de imágenes
 Se usó el formato .jpg para las imágenes del sitio ya que mantenía la misma calidad por una reducción del peso.
 
+Link
 
+Atravez de 000webhostapp: https://rodawere.000webhostapp.com/
 
 
 
